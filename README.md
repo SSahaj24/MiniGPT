@@ -1,4 +1,4 @@
-# GPTFromScratchHelloWorld
+# MiniGPT - GPT From Scratch
 
 An implementation of a Generative Pre-Trained Transformer (GPT) from scratch.  
 Built as part of following Andrej Karpathy's **[Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)** video series.
